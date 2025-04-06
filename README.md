@@ -96,5 +96,5 @@ Este projeto está sob a licença [MIT](LICENSE).
 ## 📞 Contato
 
 Para mais informações ou suporte, entre em contato conosco:
-- Email: [seu-email@exemplo.com]
-- Website: [www.seusite.com]
+- Email: [valavezzo@gmail.com]
+- Website: [https://vitoraplavezzo.github.io/Portifolio/]
